@@ -4,13 +4,13 @@
     font-family: 'Poppins', sans-serif;
 }
 #banner{
-    background-image: linear-gradient(rgba(0,0,0,0.01), #009688), url(images/banner2.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.01), #009688), url(images/banner.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
 }
 .logo{
-    width: 50px;
+    width: 200px;
     position: absolute;
     top: 4%;
     left: 10%;
@@ -75,4 +75,20 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     color: #fff;
+}
+#menuBtn{
+    width: 50px;
+    height:50px;
+    background: #009688;
+    text-align: center;
+    position: fixed;
+    right: 30px;
+    top: 20px;
+    border-radius: 3px;
+    z-index: 3;
+    cursor: pointer;
+}
+#menuBtn img{
+    width: 20px;
+    margin-top: 15px;
 }
