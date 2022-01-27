@@ -3,5 +3,8 @@
     padding: 0;
 }
 #banner{
-    background: url(images);
+    background-image: linear-gradient(rgba(0,0,0,0.01), #009688), url(images/banner2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
