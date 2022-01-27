@@ -41,7 +41,7 @@
     border: .5px solid #fff;
     position: relative;
     z-index: 1;
-    
+    transition: color 0.5s;
 }
 .banner-btn a span{
     width: 0%;
