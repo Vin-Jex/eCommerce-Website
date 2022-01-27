@@ -32,5 +32,18 @@
     <div id="menuBtn">
         <img src="images/menu.png" id="menu">
     </div>
+    <script>
+        var menuBtn = document.getElementById("menuBtn")
+        var menuBtn = document.getElementById("sideNav")
+        var menuBtn = document.getElementById("menu")
+
+        menuBtn.onclick = function(){
+            if (sideNav.style.right == "-250px"){
+                sideNav.style.right = "0";
+            } else {
+                sideNav.style.right = "-250px";
+            }
+        }
+    </script>
 </body>
 </html>
