@@ -162,3 +162,8 @@ nav ul li a{
     font-weight: 100;
     color: #009688;
 }
+.features-desc{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
