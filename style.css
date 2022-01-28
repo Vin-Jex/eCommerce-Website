@@ -177,3 +177,12 @@ nav ul li a{
     border: 1px solid #009688;
 
 }
+
+@media screen and (max-width: 770px){
+    .title-text h1{
+        font-size: 35px;
+    }
+    .features{
+        flex-basis: 100%;
+    }
+}
