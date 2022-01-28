@@ -103,3 +103,18 @@ nav ul li a{
         margin: 20px auto;
     }
 }
+
+/*--FEATURES--*/
+#feature{
+    width: 100%;
+    padding: 70px 0;
+}.title-text{
+    text-align: center;
+    padding-bottom: 70px;
+}
+.title-text p{
+    margin: auto;
+    font-size: 20px;
+    color: #009688;
+    font-weight: bold;
+}
