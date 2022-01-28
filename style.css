@@ -156,3 +156,9 @@ nav ul li a{
     width: 70%;
     border-radius: 10px;
 }
+.features h1{
+    text-align: left;
+    margin-bottom: 10px;
+    font-weight: 100;
+    color: #009688;
+}
