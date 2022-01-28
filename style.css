@@ -145,3 +145,6 @@ nav ul li a{
     align-items: center;
     text-align: center;
 }
+.features{
+    flex-basis: 50%;
+}
