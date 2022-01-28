@@ -192,3 +192,17 @@ nav ul li a{
         width: 100%;
     }
 }
+
+/*---service---*/
+#service{
+    width: 100%;
+    padding: 70px 0;
+    background: #efefef;
+}
+.service-box{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+}
