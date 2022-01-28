@@ -117,4 +117,10 @@ nav ul li a{
     font-size: 20px;
     color: #009688;
     font-weight: bold;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+}
+.title-text h1 {
+    font-size: 50px;
 }
