@@ -289,3 +289,11 @@ hr{
     width: 100%;
     padding: 70px 0;
 }
+.testimonial-row{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
