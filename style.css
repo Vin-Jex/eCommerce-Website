@@ -175,7 +175,10 @@ nav ul li a{
     border-radius: 8px;
     color: #009688;
     border: 1px solid #009688;
-
+}
+.feature-text p{
+    padding: 0 20px;
+    text-align: initial;
 }
 
 @media screen and (max-width: 770px){
