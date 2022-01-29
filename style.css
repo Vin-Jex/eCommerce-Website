@@ -257,4 +257,8 @@ hr{
     border: 0;
     margin: 15px auto;
     width: 60%;
+}
+.service-desc p{
+    font-size: 14px;
+    
 }                                                          
