@@ -228,3 +228,6 @@ nav ul li a{
     opacity: 0;
     transition: 1s;
 }
+.single-service:hover .overlay{
+    opacity: 1;
+}
