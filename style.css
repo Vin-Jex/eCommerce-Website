@@ -337,3 +337,11 @@ hr{
 
     }
 }
+
+
+
+/* footer */
+#footer{
+    padding: 100px 0 20px;
+    background: #efefef;
+}
