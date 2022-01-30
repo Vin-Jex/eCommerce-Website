@@ -402,3 +402,7 @@ hr{
     color: #fff;
     transform: translateY(-7px);
 }
+.social-links p{
+    font-size: 12px;
+    margin-top: 20px;
+}
