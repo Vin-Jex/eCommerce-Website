@@ -360,3 +360,9 @@ hr{
 .footer-right{
     text-align: right;
 }
+.footer-row h1{
+    margin: 10px 0;
+}
+.footer-row p{
+    line-height: 35px;
+}
