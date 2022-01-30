@@ -366,3 +366,8 @@ hr{
 .footer-row p{
     line-height: 35px;
 }
+.footer-left .fa,.footer-right .fa{
+    font-size: 20px;
+    color: #009688;
+    margin: 10px;
+}
