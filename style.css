@@ -374,7 +374,7 @@ hr{
 }
 .footer-img{
     max-width: 300px;
-    max-height: 50%;
+    height: 40%;
     border-radius: 10px;
     opacity: 0.2;
     background: linear-gradient(rgba(0,0,0,0.01),#efefef);
@@ -405,4 +405,14 @@ hr{
 .social-links p{
     font-size: 12px;
     margin-top: 20px;
+}
+
+@media screen and (max-width: 770px){
+    .footer-left,.footer-right{
+     flex-basis: 100%;
+    font-size: 14px;
+    }
+    .footer-img{
+        top: 30%;
+    }
 }
