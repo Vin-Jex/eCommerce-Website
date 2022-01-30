@@ -357,3 +357,6 @@ hr{
     padding: 10px;
     margin-bottom: 20px;
 }
+.footer-right{
+    text-align: right;
+}
