@@ -344,6 +344,7 @@ hr{
 #footer{
     padding: 100px 0 20px;
     background: #efefef;
+    position: relative;
 }
 .footer-row{
     width: 80%;
@@ -370,4 +371,15 @@ hr{
     font-size: 20px;
     color: #009688;
     margin: 10px;
+}
+.footer-img{
+    max-width: 300px;
+    max-height: 50%;
+    border-radius: 10px;
+    opacity: 0.2;
+    background: linear-gradient(rgba(0,0,0,0.01),#efefef);
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%,-50%);
 }
