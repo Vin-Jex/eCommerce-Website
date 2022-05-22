@@ -12,8 +12,12 @@
     <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
 </head>
 <body>
+
+    <div id="preloader">
+        <div class="loader"></div>
+    </div>
     <section id="banner">
-        <img src="images/logo.jpg" class="logo">
+        <img src="images/logo (2).png" class="logo">
         <div class="banner-text">
             <h1>Business Service</h1>
             <p>Investing with us is financial security</p>
@@ -227,6 +231,14 @@
             speed: 1000,
             speedAsDuration: true
         });
+    </script>
+
+
+    <script> var loader = document.getElementById("preloader");
+    
+    window.addEventListener("load", function(){
+        loader.style.display = "none";
+    })
     </script>
 </body>
 </html>
