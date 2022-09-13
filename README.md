@@ -9,19 +9,37 @@ The E-commerce demo can be [viewed online here](https://e-commerce-website-indol
 
 Here are screenshots that show the E-commerce demo application in use.
 
-**Home Page**
-![Home Page](https://drive.google.com/file/d/1JHgOvFM2lrKZ9tgvwYcL_0BLQRSfMJo6/view?usp=sharing)
+**Home Section**
+<img src="./images/Screenshot (275).png" alt="Home Page" title="Home Page">
 
+
+---
+
+**Features Section**
+<img src="./images/Screenshot (276).png" alt="Features Section" title="Features Section">
+
+---
 
 ---
 
 **Item Detail Page**
-![Item Detail](/screenshots/itemDetail.png?raw=true "Optional Title")
+<img src="./images/Screenshot (274).png" alt="Service Section" title="Service Section">
 
 ---
 
-**Shopping Cart**
-![Shopping Cart](/screenshots/shoppingCart.png?raw=true "Shopping Cart")
+---
+
+**Testimonial Section**
+<img src="./images/Screenshot (272).png" alt="Testimonial Section" title="Testimonial Section">
+
+---
+
+---
+
+**Contact Section**
+<img src="./images/Screenshot (273).png" alt="Contact Section" title="Contact Section">
+
+---
 
 
 ## Getting Started
@@ -30,8 +48,8 @@ To get started  you can simply clone this `ecommerce-demo` repository and instal
 To Clone the `ecommerce-demo` repository using git:
 
 ```bash
-git clone https://github.com/ratracegrad/ecommerce-demo
-cd ecommerce-demo
+git clone https://github.com/pythoniclaver/eCommerce-Website
+cd eCommerce-Website
 ```
 
 ## Tech Stack
