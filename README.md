@@ -36,7 +36,7 @@ Here are screenshots that show the E-commerce demo application in use.
 
 
 ## Getting Started
-To get started  you can simply clone this `eCommerce-Website` repository and install the dependencies or just download the Zip file.
+To get started  you can simply clone this `eCommerce-Website` repository or just download the Zip file.
 
 To Clone the `eCommerce-Website` repository using git:
 
