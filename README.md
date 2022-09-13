@@ -1,4 +1,4 @@
-# E-commerce Demo
+# E-commerce
 
 This is a sample application that demonstrates an E-commerce website UI using the plain old JavaScript, HTML5 and CSS3. The application is a static site which means the user can't interact with it but will sure enjoy the animations and design
 
