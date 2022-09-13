@@ -20,12 +20,8 @@ Here are screenshots that show the E-commerce demo application in use.
 
 ---
 
----
-
 **Item Detail Page**
 <img src="./images/Screenshot (274).png" alt="Service Section" title="Service Section">
-
----
 
 ---
 
@@ -34,18 +30,15 @@ Here are screenshots that show the E-commerce demo application in use.
 
 ---
 
----
-
 **Contact Section**
 <img src="./images/Screenshot (273).png" alt="Contact Section" title="Contact Section">
 
----
 
 
 ## Getting Started
-To get started  you can simply clone this `ecommerce-demo` repository and install the dependencies or just download the Zip file.
+To get started  you can simply clone this `eCommerce-Website` repository and install the dependencies or just download the Zip file.
 
-To Clone the `ecommerce-demo` repository using git:
+To Clone the `eCommerce-Website` repository using git:
 
 ```bash
 git clone https://github.com/pythoniclaver/eCommerce-Website
