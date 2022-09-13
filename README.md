@@ -47,6 +47,6 @@ cd eCommerce-Website
 
 ## Tech Stack
 * HTML
-* CSS#
+* CSS3
 * JavaScript
 * Font Awesome
